@@ -14,4 +14,4 @@ Online va Offline buyurtmalar: Online va Offline buyurtmalarning umumiy soni va 
 
 <video controls src="videos/gifvideo.mp4" title="Title"></video>
 
-![alt text](videos/map.png)
+<!-- ![alt text](videos/map.png) -->
