@@ -11,5 +11,4 @@ Buyurtma miqdori bo'yicha ranglar: Buyurtmalar rangga qarab guruhlangan va ular 
 Oylik buyurtmalar: Buyurtmalar oylar bo'yicha taqsimlanib, grafik orqali ifodalangan.
 Buyurtmalar mamlakatlar bo'yicha: AQSh, Kanada, Avstraliya kabi davlatlar bo'yicha buyurtmalar taqsimoti.
 Online va Offline buyurtmalar: Online va Offline buyurtmalarning umumiy soni va ulushi.
-
-c:\Users\HP\Desktop\Data Science Imtihon\photo.png
+![alt text](photo.png)
