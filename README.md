@@ -13,3 +13,4 @@ Buyurtmalar mamlakatlar bo'yicha: AQSh, Kanada, Avstraliya kabi davlatlar bo'yic
 Online va Offline buyurtmalar: Online va Offline buyurtmalarning umumiy soni va ulushi.
 
 
+[text](exam3.pdf)
