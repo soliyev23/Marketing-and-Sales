@@ -12,6 +12,7 @@ Oylik buyurtmalar: Buyurtmalar oylar bo'yicha taqsimlanib, grafik orqali ifodala
 Buyurtmalar mamlakatlar bo'yicha: AQSh, Kanada, Avstraliya kabi davlatlar bo'yicha buyurtmalar taqsimoti.
 Online va Offline buyurtmalar: Online va Offline buyurtmalarning umumiy soni va ulushi.
 
-<video controls src="videos/gifvideo.mp4" title="Title"></video>
 
-<!-- ![alt text](videos/map.png) -->
+<video controls src="videos/gif.mp4" title="Title"></video>
+
+![alt text](videos/map.png)
