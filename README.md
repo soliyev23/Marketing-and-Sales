@@ -1,5 +1,3 @@
-Albatta, ReadMe faylini yoqqa ilib beraman:
-
 # Velosiped sanoati uchun Power BI Dashboard
 
 Ushbu Power BI Dashboard velosiped sanoatidagi asosiy statistik ko'rsatkichlani ko'rsatadi. Dashboard quyidagi ma'lumotlarni o'z ichiga oladi:
@@ -32,4 +30,4 @@ Umumiy buyurtmalar soni 121K.
 Ushbu dashboard velosiped sanoati uchun muhim bo'lgan barcha asosiy ko'rsatkichlami o'z ichiga oladi va foydalanuvchilarga sanoatni yaxshi tushunishlariga yordam beradi.
 
 
-https://github.com/user-attachments/assets/6cb90e54-7cae-4cc3-b30e-feb284488fda
+
