@@ -29,5 +29,5 @@ Umumiy buyurtmalar soni 121K.
 
 Ushbu dashboard velosiped sanoati uchun muhim bo'lgan barcha asosiy ko'rsatkichlami o'z ichiga oladi va foydalanuvchilarga sanoatni yaxshi tushunishlariga yordam beradi.
 
-
+![alt text](videos/map.png)
 
