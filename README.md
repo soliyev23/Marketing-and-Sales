@@ -1,18 +1,35 @@
-📊 Dashboard tafsilotlari
-Ushbu dashboardda turli xil savdo ko'rsatkichlari va o'lchovlar namoyish etilgan:
+Albatta, ReadMe faylini yoqqa ilib beraman:
 
-Umumiy buyurtma summasi: 2,60 billion
-Soliq miqdori: 251,8 million
-Yetkazib berish narxi: 78,7 million
-Jami miqdor: 2,93 billion
+# Velosiped sanoati uchun Power BI Dashboard
 
-Vizualizatsiyalar:
-Buyurtma miqdori bo'yicha ranglar: Buyurtmalar rangga qarab guruhlangan va ular hajmi diagrammada ko'rsatilgan.
-Oylik buyurtmalar: Buyurtmalar oylar bo'yicha taqsimlanib, grafik orqali ifodalangan.
-Buyurtmalar mamlakatlar bo'yicha: AQSh, Kanada, Avstraliya kabi davlatlar bo'yicha buyurtmalar taqsimoti.
-Online va Offline buyurtmalar: Online va Offline buyurtmalarning umumiy soni va ulushi.
+Ushbu Power BI Dashboard velosiped sanoatidagi asosiy statistik ko'rsatkichlani ko'rsatadi. Dashboard quyidagi ma'lumotlarni o'z ichiga oladi:
+
+## Umumiy ma'lumotlar
+- **Umumiy buyurtma summasi**: 2,60bn
+- **Soliq summasi**: 251,8M
+- **Yetkazib berish narxi**: 78,7M
+- **Umumiy summa**: 2,93bn
+
+## Oylik buyurtmalar
+Dashboard oydagi buyurtmalar dinamikasini ko'rsatadi. Buning uchun "Umumiy zakazlar bo'yicha oylik" grafigi ishlatilgan.
+
+## Mamlakatlar bo'yicha buyurtmalar
+Turli mamlakatlardan keladigan buyurtmalar miqdori "Umumiy zakaz bo'yicha mamlakat" diagrammasida aks ettirilgan.
+
+## Ranglar/brendlar bo'yicha buyurtmalar
+Velosiped ranglari/brendlari bo'yicha buyurtmalar "Umumiy zakaz bo'yicha o'lchami" diagrammasida tasvirlangan.
+
+## Yillar bo'yicha dinamika
+Oxirgi yillardagi (2011, 2012, 2013, 2014) statistik ma'lumotlar "Yillar" blokida berilgan.
+
+## Onlayn buyurtmalar
+Dashboard onlayn sotuvlar statistikasini ham o'z ichiga olgan:
+- Onlayn buyurtmalar: 60K
+- Onlayn buyurtmalar ulushi: 50%
+
+Umumiy buyurtmalar soni 121K.
+
+Ushbu dashboard velosiped sanoati uchun muhim bo'lgan barcha asosiy ko'rsatkichlami o'z ichiga oladi va foydalanuvchilarga sanoatni yaxshi tushunishlariga yordam beradi.
 
 
 https://github.com/user-attachments/assets/6cb90e54-7cae-4cc3-b30e-feb284488fda
-
-![alt text](videos/map.png)
