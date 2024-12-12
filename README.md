@@ -1,5 +1,6 @@
-📊 Dashboard tafsilotlari
-Ushbu dashboardda turli xil savdo ko'rsatkichlari va o'lchovlar namoyish etilgan:
+# Velosiped sanoati uchun Power BI Dashboard
+
+Ushbu Power BI Dashboard velosiped sanoatidagi asosiy statistik ko'rsatkichlani ko'rsatadi. Dashboard quyidagi ma'lumotlarni o'z ichiga oladi:
 
 Umumiy buyurtma summasi: 2,60 billion
 Soliq miqdori: 251,8 million
@@ -13,4 +14,6 @@ Buyurtmalar mamlakatlar bo'yicha: AQSh, Kanada, Avstraliya kabi davlatlar bo'yic
 Online va Offline buyurtmalar: Online va Offline buyurtmalarning umumiy soni va ulushi.
 
 
-![alt text](<Снимок экрана 2024-12-12 150931.png>)
+<video controls src="videos/gif.mp4" title="Title"></video>
+
+![alt text](videos/map.png)
