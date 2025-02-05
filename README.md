@@ -1,32 +1,30 @@
-# Velosiped sanoati uchun Power BI Dashboard
+# Dashboard Power BI для велосипедной индустрии
 
-Ushbu Power BI Dashboard velosiped sanoatidagi asosiy statistik ko'rsatkichlani ko'rsatadi. Dashboard quyidagi ma'lumotlarni o'z ichiga oladi:
+## Общие данные
+- **Общая сумма заказов**: 2,60 млрд
+- **Сумма налогов**: 251,8 млн
+- **Стоимость доставки**: 78,7 млн
+- **Общая сумма**: 2,93 млрд
 
-## Umumiy ma'lumotlar
-- **Umumiy buyurtma summasi**: 2,60bn
-- **Soliq summasi**: 251,8M
-- **Yetkazib berish narxi**: 78,7M
-- **Umumiy summa**: 2,93bn
+## Ежемесячные заказы
+Dashboard отображает динамику заказов по месяцам с помощью графика "Ежемесячные общие заказы".
 
-## Oylik buyurtmalar
-Dashboard oydagi buyurtmalar dinamikasini ko'rsatadi. Buning uchun "Umumiy zakazlar bo'yicha oylik" grafigi ishlatilgan.
+## Заказы по странам
+Количество заказов из разных стран отражено в диаграмме "Общие заказы по странам".
 
-## Mamlakatlar bo'yicha buyurtmalar
-Turli mamlakatlardan keladigan buyurtmalar miqdori "Umumiy zakaz bo'yicha mamlakat" diagrammasida aks ettirilgan.
+## Заказы по цветам/брендам
+Заказы по цветам/брендам велосипедов представлены в диаграмме "Размер общих заказов".
 
-## Ranglar/brendlar bo'yicha buyurtmalar
-Velosiped ranglari/brendlari bo'yicha buyurtmalar "Umumiy zakaz bo'yicha o'lchami" diagrammasida tasvirlangan.
+## Динамика по годам
+Статистические данные за последние годы (2011, 2012, 2013, 2014) представлены в блоке "Годы".
 
-## Yillar bo'yicha dinamika
-Oxirgi yillardagi (2011, 2012, 2013, 2014) statistik ma'lumotlar "Yillar" blokida berilgan.
+## Онлайн-заказы
+Dashboard также включает статистику онлайн-продаж:
+- Количество онлайн-заказов: 60 тыс.
+- Доля онлайн-заказов: 50%
 
-## Onlayn buyurtmalar
-Dashboard onlayn sotuvlar statistikasini ham o'z ichiga olgan:
-- Onlayn buyurtmalar: 60K
-- Onlayn buyurtmalar ulushi: 50%
+Общее количество заказов составляет 121 тыс.
 
-Umumiy buyurtmalar soni 121K.
-
-Ushbu dashboard velosiped sanoati uchun muhim bo'lgan barcha asosiy ko'rsatkichlami o'z ichiga oladi va foydalanuvchilarga sanoatni yaxshi tushunishlariga yordam beradi.
+Этот dashboard включает все ключевые показатели, важные для велосипедной индустрии, и помогает пользователям лучше понимать состояние отрасли.
 
 ![alt text](vizualization.png)
