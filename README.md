@@ -1,30 +1,30 @@
-# Dashboard Power BI для велосипедной индустрии
+# Power BI Dashboard for the Bicycle Industry
 
-## Общие данные
-- **Общая сумма заказов**: 2,60 млрд
-- **Сумма налогов**: 251,8 млн
-- **Стоимость доставки**: 78,7 млн
-- **Общая сумма**: 2,93 млрд
+## Key Performance Indicators (KPIs)
+- **Total Order Value**: 2.60 Billion
+- **Tax Amount**: 251.8 Million
+- **Shipping Cost**: 78.7 Million
+- **Grand Total**: 2.93 Billion
 
-## Ежемесячные заказы
-Dashboard отображает динамику заказов по месяцам с помощью графика "Ежемесячные общие заказы".
+## Monthly Orders
+The dashboard displays order dynamics over time using the "Monthly Total Orders" chart.
 
-## Заказы по странам
-Количество заказов из разных стран отражено в диаграмме "Общие заказы по странам".
+## Orders by Country
+The volume of orders from different regions is reflected in the "Total Orders by Country" diagram.
 
-## Заказы по цветам/брендам
-Заказы по цветам/брендам велосипедов представлены в диаграмме "Размер общих заказов".
+## Orders by Color/Brand
+The breakdown of bicycle orders by color and brand is presented in the "Total Order Volume" chart.
 
-## Динамика по годам
-Статистические данные за последние годы (2011, 2012, 2013, 2014) представлены в блоке "Годы".
+## Yearly Dynamics
+Statistical data for recent years (2011, 2012, 2013, 2014) is organized in the "Years" filter block.
 
-## Онлайн-заказы
-Dashboard также включает статистику онлайн-продаж:
-- Количество онлайн-заказов: 60 тыс.
-- Доля онлайн-заказов: 50%
+## Online Orders
+The dashboard also tracks digital sales statistics:
+- **Number of Online Orders**: 60k
+- **Online Order Share**: 50%
 
-Общее количество заказов составляет 121 тыс.
+The total number of orders across all channels is 121k.
 
-Этот dashboard включает все ключевые показатели, важные для велосипедной индустрии, и помогает пользователям лучше понимать состояние отрасли.
+This dashboard includes all key metrics critical to the bicycle industry, helping users better understand the current state of the market.
 
 ![alt text](vizualization.png)
